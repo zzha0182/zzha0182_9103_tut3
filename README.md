@@ -3,3 +3,9 @@
 The imaging technology I chose is Orbit Control of p5.js, which allows users to interactively adjust the viewing Angle of the 3D scene through the mouse or touchscreen, including rotation, translation and zooming. This technology is particularly inspiring for my project because it offers an intuitive way to explore 3D space, enhancing users' immersion and engagement.
 
 I hope to incorporate dynamic perspective control in my project, enabling users to freely adjust their observation angles and thereby gain a deeper understanding of the details and spatial relationships of 3D models.
+
+
+Screenshot example:
+
+Orbit Control Rotating View (shows how users adjust 3D views by dragging and dropping with the mouse)
+Orbit Control zoom function (demonstrating how users can zoom in/out of the viewing Angle through the scroll wheel or touchscreen gestures)
